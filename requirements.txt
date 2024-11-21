@@ -3,4 +3,5 @@ openpyxl
 pandas
 pyarrow
 pyjanitor
+jupyter
 ipykernel
